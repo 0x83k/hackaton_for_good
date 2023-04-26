@@ -17,7 +17,7 @@ Nuestros objetivos son:
 
 ## <h2 style="background-color: #5cb85c; color: white; padding: 10px;">Progreso del proyecto</h2>
 
-Puedes seguir nuestro progreso en el siguiente enlace: [Proyecto Tierra Lúcida](https://github.com/tierra-lucida/proyecto)
+Puedes seguir nuestro progreso en el siguiente enlace: [Proyecto Tierra Lúcida](https://github.com/0x83k/hackaton_for_good/blob/main/README.md)
 
 ## <h2 style="background-color: #5cb85c; color: white; padding: 10px;">Contacto</h2>
 
