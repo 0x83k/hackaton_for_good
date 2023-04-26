@@ -1,26 +1,29 @@
-<h1 style="color:green;text-shadow: 1px 1px white">Tierra Lúcida :earth_for_good:</h1>
+<div style="background-color: #0099cc; padding: 20px; text-align: center;">
+  <h1 style="color: white;">Tierra Lúcida earth_for_good</h1>
+  <p style="color: white;">Bienvenidos al proyecto Tierra Lúcida. Somos un equipo comprometido en encontrar soluciones innovadoras que ayuden a las sociedad en su conjunto.</p>
+</div>
 
-<p style="background-color:#ADD8E6;padding:10px;border-radius:5px;">
-Bienvenidos al proyecto Tierra Lúcida. Somos un equipo comprometido en encontrar soluciones innovadoras que ayuden a personas de bajos recursos.
-</p>
-
-## Equipo
+## <h2 style="background-color: #5cb85c; color: white; padding: 10px;">Equipo</h2>
 
 Somos un equipo diverso con diferentes habilidades y experiencia.
 
-<h2 style="background-color:#ADD8E6;color:white;padding:10px;border-radius:5px;text-shadow: 1px 1px white">Objetivos</h2>
+## <h2 style="background-color: #5cb85c; color: white; padding: 10px;">Objetivos</h2>
 
-<p>Nuestros objetivos son:</p>
+Nuestros objetivos son:
 
-<ul>
-  <li>Crear soluciones innovadoras que ayuden a mejorar la vida de las personas y de la sociedad en su conjunto.</li>
-  <li>Contribuir al desarrollo sostenible del planeta.</li>
-  <li>Compartir nuestro conocimiento y habilidades con la comunidad.</li>
-</ul>
+- Crear soluciones innovadoras que ayuden a mejorar la vida de las personas y de la sociedad en su conjunto.
+- Contribuir al desarrollo sostenible del planeta.
+- Compartir nuestro conocimiento y habilidades con la comunidad.
 
-## Progreso del proyecto
+## <h2 style="background-color: #5cb85c; color: white; padding: 10px;">Progreso del proyecto</h2>
 
 Puedes seguir nuestro progreso en el siguiente enlace: [Proyecto Tierra Lúcida](https://github.com/tierra-lucida/proyecto)
 
-![Tierra Lúcida Logo](https://i.imgur.com/2lhWeLS.png)
+## <h2 style="background-color: #5cb85c; color: white; padding: 10px;">Contacto</h2>
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos por correo electrónico: tierra.lucida.hackaton@gmail.com
+
+![Tierra Lúcida](https://i.imgur.com/2lhWeLS.png)
+
+Puedes encontrar más información sobre nuestro proyecto en nuestra página web: [https://10web-demo.ai/15/fluent-jennet/about/](https://10web-demo.ai/15/fluent-jennet/about/)
 
